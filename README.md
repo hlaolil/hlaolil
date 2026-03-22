@@ -3,7 +3,7 @@
 <!--
 **hlaolil/hlaolil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Abou me
+## About me
 - I’m Letlotlo Hlaoli — an aspiring Full-Stack Developer based in Lesotho 🇱🇸.
 - I’m passionate about building practical software solutions that solve real-world problems, especially in areas like health systems, inventory management, and productivity tools.
 
