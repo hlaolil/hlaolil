@@ -3,14 +3,15 @@
 <!--
 **hlaolil/hlaolil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I’m Letlotlo Hlaoli — an aspiring Full-Stack Developer based in Lesotho 🇱🇸.
-I’m passionate about building practical software solutions that solve real-world problems, especially in areas like health systems, inventory management, and productivity tools.
+## Abou me
+- I’m Letlotlo Hlaoli — an aspiring Full-Stack Developer based in Lesotho 🇱🇸.
+- I’m passionate about building practical software solutions that solve real-world problems, especially in areas like health systems, inventory management, and productivity tools.
 
-I’m currently developing skills in both front-end and back-end development, and I enjoy learning how systems connect — from databases all the way to user interfaces.
+- I’m currently developing skills in both front-end and back-end development, and I enjoy learning how systems connect — from databases all the way to user interfaces.
 
-🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies
 
-Frontend:
+- Frontend:
 
 HTML5
 CSS3
