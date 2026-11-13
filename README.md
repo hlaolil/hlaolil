@@ -1,6 +1,6 @@
 # Hi, I'm Letlotlo Hlaoli 👋
 
-**Pharmacist · Minister · Developer** — based in Lesotho 🇱🇸
+**Pharmacist · Developer** — based in Lesotho 🇱🇸
 
 I build software for the places I actually work: pharmacies, clinics, and NGOs in Lesotho. Most of what's here started as a paper register or a spreadsheet that someone was tired of filling in by hand.
 
