@@ -2,9 +2,9 @@
 
 **Pharmacist · Minister · Developer** — based in Lesotho 🇱🇸
 
-I build software for the places I actually work: pharmacies, clinics, churches and Bible colleges in Lesotho. Most of what's here started as a paper register or a spreadsheet that someone was tired of filling in by hand.
+I build software for the places I actually work: pharmacies, clinics, NGOs in Lesotho. Most of what's here started as a paper register or a spreadsheet that someone was tired of filling in by hand.
 
-By day I'm a pharmacist and a minister in the Assemblies of God Lesotho. I'm also a PhD student in theology (Pan-Africa Theological Seminary) and I study software development on the side. The code is where those worlds meet.
+By day I'm a pharmacist and study software development on the side. The code is where those worlds meet.
 
 ---
 
